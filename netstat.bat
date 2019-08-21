@@ -1,1 +1,1 @@
-echo "netstat -a"
+netstat -a
