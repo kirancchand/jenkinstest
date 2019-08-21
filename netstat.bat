@@ -1,1 +1,1 @@
-sh 'netstat -a'
+echo "build"
