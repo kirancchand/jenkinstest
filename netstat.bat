@@ -1,1 +1,1 @@
-C:/Windows/System32 netstat -a
+C:\Windows\System32 netstat -a
