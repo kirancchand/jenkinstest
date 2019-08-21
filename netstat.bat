@@ -1,1 +1,1 @@
-sh netstat -a
+sh 'netstat -a'
