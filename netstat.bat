@@ -1,0 +1,1 @@
+echo "netstat -a"

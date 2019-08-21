@@ -3,7 +3,8 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "build"
+                echo "netstat"
+		        bat label: 'netstat', script: 'netstat.bat'
             }
         }
     }
